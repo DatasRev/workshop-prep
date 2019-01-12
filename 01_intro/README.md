@@ -1,6 +1,6 @@
 # 2019-01-12
 
-You should be understand these code snippets:
+You should understand these code snippets:
 
 - https://gist.github.com/levlas/1671c790f3e4f9b7ca2aa7c2f5f4fac4
 - https://gist.github.com/levlas/f4e4a40bff711cad3b1911037e43fea6
