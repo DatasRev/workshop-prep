@@ -3,7 +3,7 @@
 
 Pandas is based on numPy, so...
 You should check the code snippets from the last event:
-https://github.com/DatasRev/workshop-log/tree/master/01_intro
+https://github.com/DatasRev/workshop-log/blob/master/01_intro/snippets.py
 
 If you cannot understand some pieces, please check the suggested materials here:
 https://github.com/DatasRev/workshop-prep/tree/master/01_intro
