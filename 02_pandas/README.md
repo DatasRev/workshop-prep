@@ -16,3 +16,5 @@ https://github.com/DatasRev/workshop-prep/tree/master/01_intro
 
 ## ACTION
 Install VSCode with python extension: https://code.visualstudio.com/Download
+
+Do every steps in https://github.com/DatasRev/env/blob/master/README.md
