@@ -15,6 +15,5 @@ https://github.com/DatasRev/workshop-prep/tree/master/01_intro
 
 
 ## ACTION
-Install VSCode with python extension: https://code.visualstudio.com/Download
-
-Do every steps in https://github.com/DatasRev/env/blob/master/README.md
+- Install an editor (e.g. VSCode with Python extension: https://code.visualstudio.com/Download)
+- Set up a Python environment with numpy and pandas (you find help here: https://github.com/DatasRev/env)
