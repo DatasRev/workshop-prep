@@ -1,13 +1,10 @@
 # 2019-01-26
 # PowerBI
 
-PowerBI is !FIXME!
-
-You should check the code snippets from the last event:
-https://github.com/DatasRev/workshop-log/blob/master/02_pandas/snippets.py
-
-If you cannot understand some pieces, please check the suggested materials here:
-https://github.com/DatasRev/workshop-prep/tree/master/02_pandas_
+PowerBI
+https://github.com/RonaiBertalan/PowerBI
+A téma úgy jött elő, hogy az ingyenes Microsoft Power BI programmal is lehet Python kódot futtatni. A fenti linkelt repo-ban van egy leírás egy Power BI file-ról, amelyben egy API-ra csatlakozva pythonban letöltöm részvények adatait és pythonban vizualizálom azokat.
+A repo-ban van tutorial is, így előben nem fogom nagyon részletezni a bemutatását.
 
 ## READ ABOUT
 
