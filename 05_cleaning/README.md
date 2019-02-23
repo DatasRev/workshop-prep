@@ -6,6 +6,7 @@ Exploratory analysis should be the first step
 
 ## READ ABOUT
 
+Tidy data 
 
 ## ACTION
 
